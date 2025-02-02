@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+header{background-color: blue; padding: 8px; margin-bottom: 10px;
+text-align: center;
+}
+footer{background-color: blue; ;}
+
+header a {
+    color: aliceblue;
+    padding: 10px;text-decoration: dashed;
+}
+header img{
+    padding: 10px;
+
+}
+.koloboc{font-weight: bold;}
